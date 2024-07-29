@@ -1,0 +1,32 @@
+package multiples;
+
+public class SegundoEjercicio {
+	
+	    public static void main(String[] args) {
+	        int calificacion = 85; 
+
+	        switch (calificacion) {
+            case 'A':
+                System.out.println("Calificación: A");
+                break;
+            case 'B':
+                System.out.println("Calificación: B");
+                break;
+            case 'C':
+                System.out.println("Calificación: C");
+                break;
+            case 'D':
+                System.out.println("Calificación: D");
+                break;
+            case 'F':
+                System.out.println("Calificación: F");
+                break;
+            default:
+                System.out.println("Calificación inválida");
+                break;
+        }
+    }
+}
+	
+
+

@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+C:\workspaceJavaSTF\TiposDatos\.metadata\.plugins\org.eclipse.jdt.core
+3934779050.index
+220855006.index
+1865797976.index
+676688381.index
+3000805136.index
+1400685756.index
+3909949765.index
+3924348014.index
